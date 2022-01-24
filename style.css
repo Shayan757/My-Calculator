@@ -1,0 +1,41 @@
+
+.container{
+    text-align: center;
+    margin-top:23px;    
+ }
+
+ button {
+     border-radius: 21px;
+     font-size: 28px;
+     background-color: aqua;
+     width: 98px;
+     height: 72px;
+ }
+
+ button:hover{
+    background-color: bisque;
+}
+
+input {
+    border-radius: 21px;
+    font-size: 34px;
+    border: 2px solid gray;
+}
+
+ table {
+     margin: auto;
+    }
+ 
+ .calculator{
+     background-color: grey;
+     display:inline-block;    
+     padding: 23px;
+     border-radius: 52px;
+ }
+ 
+ body {
+    margin: 0;
+    padding: 0;
+    background: linear-gradient(to right, #CBCE91FF, #EA738DFF);
+    }
+  
